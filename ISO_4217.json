@@ -1,0 +1,1272 @@
+{
+    "ISO_4217":
+    [
+        {
+            "numericCode": 8,
+            "alphabeticCode": "ALL",
+            "minorUnit": 2,
+            "entity": "Albanian lek",
+            "symbol": null
+        },
+        {
+            "numericCode": 12,
+            "alphabeticCode": "DZD",
+            "minorUnit": 2,
+            "entity": "Algerian dinar",
+            "symbol": null
+        },
+        {
+            "numericCode": 32,
+            "alphabeticCode": "ARS",
+            "minorUnit": 2,
+            "entity": "Argentine peso",
+            "symbol": null
+        },
+        {
+            "numericCode": 36,
+            "alphabeticCode": "AUD",
+            "minorUnit": 2,
+            "entity": "Australian dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 44,
+            "alphabeticCode": "BSD",
+            "minorUnit": 2,
+            "entity": "Bahamian dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 48,
+            "alphabeticCode": "BHD",
+            "minorUnit": 3,
+            "entity": "Bahraini dinar",
+            "symbol": null
+        },
+        {
+            "numericCode": 50,
+            "alphabeticCode": "BDT",
+            "minorUnit": 2,
+            "entity": "Bangladeshi taka",
+            "symbol": null
+        },
+        {
+            "numericCode": 51,
+            "alphabeticCode": "AMD",
+            "minorUnit": 2,
+            "entity": "Armenian dram",
+            "symbol": null
+        },
+        {
+            "numericCode": 52,
+            "alphabeticCode": "BBD",
+            "minorUnit": 2,
+            "entity": "Barbados dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 60,
+            "alphabeticCode": "BMD",
+            "minorUnit": 2,
+            "entity": "Bermudian dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 64,
+            "alphabeticCode": "BTN",
+            "minorUnit": 2,
+            "entity": "Bermudian dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 68,
+            "alphabeticCode": "BOB",
+            "minorUnit": 2,
+            "entity": "Boliviano",
+            "symbol": null
+        },
+        {
+            "numericCode": 72,
+            "alphabeticCode": "BWP",
+            "minorUnit": 2,
+            "entity": "Botswana pula",
+            "symbol": null
+        },
+        {
+            "numericCode": 84,
+            "alphabeticCode": "BZD",
+            "minorUnit": 2,
+            "entity": "Belize dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 90,
+            "alphabeticCode": "SBD",
+            "minorUnit": 2,
+            "entity": "Solomon Islands dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 96,
+            "alphabeticCode": "BND",
+            "minorUnit": 2,
+            "entity": "Brunei dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 104,
+            "alphabeticCode": "MMK",
+            "minorUnit": 2,
+            "entity": "Myanmar kyat",
+            "symbol": null
+        },
+        {
+            "numericCode": 108,
+            "alphabeticCode": "BIF",
+            "minorUnit": 0,
+            "entity": "Burundian franc",
+            "symbol": null
+        },
+        {
+            "numericCode": 116,
+            "alphabeticCode": "KHR",
+            "minorUnit": 2,
+            "entity": "Canadian dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 124,
+            "alphabeticCode": "CAD",
+            "minorUnit": 2,
+            "entity": "Canadian dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 132,
+            "alphabeticCode": "CVE",
+            "minorUnit": 2,
+            "entity": "Canadian dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 136,
+            "alphabeticCode": "KYD",
+            "minorUnit": 2,
+            "entity": "Cayman Islands dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 144,
+            "alphabeticCode": "LKR",
+            "minorUnit": 2,
+            "entity": "Sri Lankan rupee",
+            "symbol": null
+        },
+        {
+            "numericCode": 152,
+            "alphabeticCode": "CLP",
+            "minorUnit": 0,
+            "entity": "Chilean peso",
+            "symbol": null
+        },
+        {
+            "numericCode": 156,
+            "alphabeticCode": "CNY",
+            "minorUnit": 2,
+            "entity": "Renminbi",
+            "symbol": null
+        },
+        {
+            "numericCode": 170,
+            "alphabeticCode": "COP",
+            "minorUnit": 2,
+            "entity": "Colombian peso",
+            "symbol": null
+        },
+        {
+            "numericCode": 174,
+            "alphabeticCode": "KMF",
+            "minorUnit": 0,
+            "entity": "Comoro franc",
+            "symbol": null
+        },
+        {
+            "numericCode": 188,
+            "alphabeticCode": "CRC",
+            "minorUnit": 2,
+            "entity": "Costa Rican colon",
+            "symbol": null
+        },
+        {
+            "numericCode": 191,
+            "alphabeticCode": "HRK",
+            "minorUnit": 2,
+            "entity": "Croatian kuna",
+            "symbol": null
+        },
+        {
+            "numericCode": 192,
+            "alphabeticCode": "CUP",
+            "minorUnit": 2,
+            "entity": "Cuban peso",
+            "symbol": null
+        },
+        {
+            "numericCode": 203,
+            "alphabeticCode": "CZK",
+            "minorUnit": 2,
+            "entity": "Czech koruna",
+            "symbol": null
+        },
+        {
+            "numericCode": 208,
+            "alphabeticCode": "DKK",
+            "minorUnit": 2,
+            "entity": "Danish krone",
+            "symbol": null
+        },
+        {
+            "numericCode": 214,
+            "alphabeticCode": "DOP",
+            "minorUnit": 2,
+            "entity": "Dominican peso",
+            "symbol": null
+        },
+        {
+            "numericCode": 222,
+            "alphabeticCode": "SVC",
+            "minorUnit": 2,
+            "entity": "Salvadoran colón",
+            "symbol": null
+        },
+        {
+            "numericCode": 230,
+            "alphabeticCode": "ETB",
+            "minorUnit": 2,
+            "entity": "Ethiopian birr",
+            "symbol": null
+        },
+        {
+            "numericCode": 232,
+            "alphabeticCode": "ERN",
+            "minorUnit": 2,
+            "entity": "Eritrean nakfa",
+            "symbol": null
+        },
+        {
+            "numericCode": 238,
+            "alphabeticCode": "FKP",
+            "minorUnit": 2,
+            "entity": "Falkland Islands pound",
+            "symbol": null
+        },
+        {
+            "numericCode": 242,
+            "alphabeticCode": "FJD",
+            "minorUnit": 2,
+            "entity": "Fiji dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 262,
+            "alphabeticCode": "DJF",
+            "minorUnit": 0,
+            "entity": "Djiboutian franc",
+            "symbol": null
+        },
+        {
+            "numericCode": 270,
+            "alphabeticCode": "GMD",
+            "minorUnit": 2,
+            "entity": "Gambian dalasi",
+            "symbol": null
+        },
+        {
+            "numericCode": 292,
+            "alphabeticCode": "GIP",
+            "minorUnit": 2,
+            "entity": "Gibraltar pound",
+            "symbol": null
+        },
+        {
+            "numericCode": 320,
+            "alphabeticCode": "GTQ",
+            "minorUnit": 2,
+            "entity": "Guatemalan quetzal",
+            "symbol": null
+        },
+        {
+            "numericCode": 324,
+            "alphabeticCode": "GNF",
+            "minorUnit": 0,
+            "entity": "Guinean franc",
+            "symbol": null
+        },
+        {
+            "numericCode": 328,
+            "alphabeticCode": "GYD",
+            "minorUnit": 2,
+            "entity": "Guyanese dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 332,
+            "alphabeticCode": "HTG",
+            "minorUnit": 2,
+            "entity": "Haitian gourde",
+            "symbol": null
+        },
+        {
+            "numericCode": 340,
+            "alphabeticCode": "HNL",
+            "minorUnit": 2,
+            "entity": "Honduran lempira",
+            "symbol": null
+        },
+        {
+            "numericCode": 344,
+            "alphabeticCode": "HKD",
+            "minorUnit": 2,
+            "entity": "Hong Kong dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 348,
+            "alphabeticCode": "HUF",
+            "minorUnit": 2,
+            "entity": "Hungarian forint",
+            "symbol": null
+        },
+        {
+            "numericCode": 352,
+            "alphabeticCode": "ISK",
+            "minorUnit": 0,
+            "entity": "Icelandic króna",
+            "symbol": null
+        },
+        {
+            "numericCode": 356,
+            "alphabeticCode": "INR",
+            "minorUnit": 2,
+            "entity": "Indian rupee",
+            "symbol": null
+        },
+        {
+            "numericCode": 360,
+            "alphabeticCode": "IDR",
+            "minorUnit": 2,
+            "entity": "Indonesian rupiah",
+            "symbol": null
+        },
+        {
+            "numericCode": 364,
+            "alphabeticCode": "IRR",
+            "minorUnit": 2,
+            "entity": "Iranian rial",
+            "symbol": null
+        },
+        {
+            "numericCode": 368,
+            "alphabeticCode": "IQD",
+            "minorUnit": 3,
+            "entity": "Iraqi dinar",
+            "symbol": null
+        },
+        {
+            "numericCode": 376,
+            "alphabeticCode": "ILS",
+            "minorUnit": 2,
+            "entity": "Israeli new shekel",
+            "symbol": null
+        },
+        {
+            "numericCode": 388,
+            "alphabeticCode": "JMD",
+            "minorUnit": 2,
+            "entity": "Jamaican dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 392,
+            "alphabeticCode": "JPY",
+            "minorUnit": 0,
+            "entity": "Japanese yen",
+            "symbol": "¥"
+        },
+        {
+            "numericCode": 398,
+            "alphabeticCode": "KZT",
+            "minorUnit": 2,
+            "entity": "Kazakhstani tenge",
+            "symbol": null
+        },
+        {
+            "numericCode": 400,
+            "alphabeticCode": "JOD",
+            "minorUnit": 3,
+            "entity": "Jordanian dinar",
+            "symbol": null
+        },
+        {
+            "numericCode": 404,
+            "alphabeticCode": "KES",
+            "minorUnit": 2,
+            "entity": "Kenyan shilling",
+            "symbol": null
+        },
+        {
+            "numericCode": 408,
+            "alphabeticCode": "KPW",
+            "minorUnit": 2,
+            "entity": "North Korean won",
+            "symbol": null
+        },
+        {
+            "numericCode": 410,
+            "alphabeticCode": "KRW",
+            "minorUnit": 0,
+            "entity": "South Korean won",
+            "symbol": null
+        },
+        {
+            "numericCode": 414,
+            "alphabeticCode": "KWD",
+            "minorUnit": 3,
+            "entity": "Kuwaiti dinar",
+            "symbol": null
+        },
+        {
+            "numericCode": 417,
+            "alphabeticCode": "KGS",
+            "minorUnit": 2,
+            "entity": "Kyrgyzstani som",
+            "symbol": null
+        },
+        {
+            "numericCode": 418,
+            "alphabeticCode": "LAK",
+            "minorUnit": 2,
+            "entity": "Lao kip",
+            "symbol": null
+        },
+        {
+            "numericCode": 422,
+            "alphabeticCode": "LBP",
+            "minorUnit": 2,
+            "entity": "Lebanese pound",
+            "symbol": null
+        },
+        {
+            "numericCode": 426,
+            "alphabeticCode": "LSL",
+            "minorUnit": 2,
+            "entity": "Lesotho loti",
+            "symbol": null
+        },
+        {
+            "numericCode": 430,
+            "alphabeticCode": "LRD",
+            "minorUnit": 2,
+            "entity": "Liberian dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 434,
+            "alphabeticCode": "LYD",
+            "minorUnit": 3,
+            "entity": "Libyan dinar",
+            "symbol": null
+        },
+        {
+            "numericCode": 446,
+            "alphabeticCode": "MOP",
+            "minorUnit": 2,
+            "entity": "Macanese pataca",
+            "symbol": null
+        },
+        {
+            "numericCode": 454,
+            "alphabeticCode": "MWK",
+            "minorUnit": 2,
+            "entity": "Malawian kwacha",
+            "symbol": null
+        },
+        {
+            "numericCode": 458,
+            "alphabeticCode": "MYR",
+            "minorUnit": 2,
+            "entity": "Malaysian ringgit",
+            "symbol": null
+        },
+        {
+            "numericCode": 462,
+            "alphabeticCode": "MVR",
+            "minorUnit": 2,
+            "entity": "Maldivian rufiyaa",
+            "symbol": null
+        },
+        {
+            "numericCode": 480,
+            "alphabeticCode": "MUR",
+            "minorUnit": 2,
+            "entity": "Mauritian rupee",
+            "symbol": null
+        },
+        {
+            "numericCode": 484,
+            "alphabeticCode": "MXN",
+            "minorUnit": 2,
+            "entity": "Mexican peso",
+            "symbol": null
+        },
+        {
+            "numericCode": 496,
+            "alphabeticCode": "MNT",
+            "minorUnit": 2,
+            "entity": "Mongolian tögrög",
+            "symbol": null
+        },
+        {
+            "numericCode": 498,
+            "alphabeticCode": "MDL",
+            "minorUnit": 2,
+            "entity": "Moldovan leu",
+            "symbol": null
+        },
+        {
+            "numericCode": 504,
+            "alphabeticCode": "MAD",
+            "minorUnit": 2,
+            "entity": "Moroccan dirham",
+            "symbol": null
+        },
+        {
+            "numericCode": 512,
+            "alphabeticCode": "OMR",
+            "minorUnit": 3,
+            "entity": "Omani rial",
+            "symbol": null
+        },
+        {
+            "numericCode": 516,
+            "alphabeticCode": "NAD",
+            "minorUnit": 2,
+            "entity": "Namibian dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 524,
+            "alphabeticCode": "NPR",
+            "minorUnit": 2,
+            "entity": "Nepalese rupee",
+            "symbol": null
+        },
+        {
+            "numericCode": 532,
+            "alphabeticCode": "ANG",
+            "minorUnit": 2,
+            "entity": "Netherlands Antillean guilder",
+            "symbol": null
+        },
+        {
+            "numericCode": 533,
+            "alphabeticCode": "AWG",
+            "minorUnit": 2,
+            "entity": "Aruban florin",
+            "symbol": null
+        },
+        {
+            "numericCode": 548,
+            "alphabeticCode": "VUV",
+            "minorUnit": 0,
+            "entity": "Vanuatu vatu",
+            "symbol": null
+        },
+        {
+            "numericCode": 554,
+            "alphabeticCode": "NZD",
+            "minorUnit": 2,
+            "entity": "New Zealand dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 558,
+            "alphabeticCode": "NIO",
+            "minorUnit": 2,
+            "entity": "Nicaraguan córdoba",
+            "symbol": null
+        },
+        {
+            "numericCode": 566,
+            "alphabeticCode": "NGN",
+            "minorUnit": 2,
+            "entity": "Nigerian naira",
+            "symbol": null
+        },
+        {
+            "numericCode": 578,
+            "alphabeticCode": "NOK",
+            "minorUnit": 2,
+            "entity": "Norwegian krone",
+            "symbol": null
+        },
+        {
+            "numericCode": 586,
+            "alphabeticCode": "PKR",
+            "minorUnit": 2,
+            "entity": "Pakistani rupee",
+            "symbol": null
+        },
+        {
+            "numericCode": 590,
+            "alphabeticCode": "PAB",
+            "minorUnit": 2,
+            "entity": "Panamanian balboa",
+            "symbol": null
+        },
+        {
+            "numericCode": 598,
+            "alphabeticCode": "PGK",
+            "minorUnit": 2,
+            "entity": "Papua New Guinean kina",
+            "symbol": null
+        },
+        {
+            "numericCode": 600,
+            "alphabeticCode": "PYG",
+            "minorUnit": 0,
+            "entity": "Paraguayan guaraní",
+            "symbol": null
+        },
+        {
+            "numericCode": 604,
+            "alphabeticCode": "PEN",
+            "minorUnit": 2,
+            "entity": "Peruvian sol",
+            "symbol": null
+        },
+        {
+            "numericCode": 608,
+            "alphabeticCode": "PHP",
+            "minorUnit": 2,
+            "entity": "Philippine peso",
+            "symbol": null
+        },
+        {
+            "numericCode": 634,
+            "alphabeticCode": "QAR",
+            "minorUnit": 2,
+            "entity": "Qatari riyal",
+            "symbol": null
+        },
+        {
+            "numericCode": 643,
+            "alphabeticCode": "RUB",
+            "minorUnit": 2,
+            "entity": "Russian ruble",
+            "symbol": null
+        },
+        {
+            "numericCode": 646,
+            "alphabeticCode": "RWF",
+            "minorUnit": 0,
+            "entity": "Rwandan franc",
+            "symbol": null
+        },
+        {
+            "numericCode": 654,
+            "alphabeticCode": "SHP",
+            "minorUnit": 2,
+            "entity": "Saint Helena pound",
+            "symbol": null
+        },
+        {
+            "numericCode": 682,
+            "alphabeticCode": "SAR",
+            "minorUnit": 2,
+            "entity": "Saudi riyal",
+            "symbol": null
+        },
+        {
+            "numericCode": 690,
+            "alphabeticCode": "SCR",
+            "minorUnit": 2,
+            "entity": "Seychelles rupee",
+            "symbol": null
+        },
+        {
+            "numericCode": 694,
+            "alphabeticCode": "SLL",
+            "minorUnit": 2,
+            "entity": "Sierra Leonean leone (old leone)",
+            "symbol": null
+        },
+        {
+            "numericCode": 702,
+            "alphabeticCode": "SGD",
+            "minorUnit": 2,
+            "entity": "Singapore dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 704,
+            "alphabeticCode": "VND",
+            "minorUnit": 0,
+            "entity": "Vietnamese đồng",
+            "symbol": null
+        },
+        {
+            "numericCode": 706,
+            "alphabeticCode": "SOS",
+            "minorUnit": 2,
+            "entity": "Somali shilling",
+            "symbol": null
+        },
+        {
+            "numericCode": 710,
+            "alphabeticCode": "ZAR",
+            "minorUnit": 2,
+            "entity": "South African rand",
+            "symbol": null
+        },
+        {
+            "numericCode": 728,
+            "alphabeticCode": "SSP",
+            "minorUnit": 2,
+            "entity": "South Sudanese pound",
+            "symbol": null
+        },
+        {
+            "numericCode": 748,
+            "alphabeticCode": "SZL",
+            "minorUnit": 2,
+            "entity": "Swazi lilangeni",
+            "symbol": null
+        },
+        {
+            "numericCode": 752,
+            "alphabeticCode": "SEK",
+            "minorUnit": 2,
+            "entity": "Swedish krona",
+            "symbol": null
+        },
+        {
+            "numericCode": 756,
+            "alphabeticCode": "CHF",
+            "minorUnit": 2,
+            "entity": "Swiss franc",
+            "symbol": null
+        },
+        {
+            "numericCode": 760,
+            "alphabeticCode": "SYP",
+            "minorUnit": 2,
+            "entity": "Syrian pound",
+            "symbol": null
+        },
+        {
+            "numericCode": 764,
+            "alphabeticCode": "THB",
+            "minorUnit": 2,
+            "entity": "Thai baht",
+            "symbol": null
+        },
+        {
+            "numericCode": 776,
+            "alphabeticCode": "TOP",
+            "minorUnit": 2,
+            "entity": "Tongan paʻanga",
+            "symbol": null
+        },
+        {
+            "numericCode": 780,
+            "alphabeticCode": "TTD",
+            "minorUnit": 2,
+            "entity": "Trinidad and Tobago dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 784,
+            "alphabeticCode": "AED",
+            "minorUnit": 2,
+            "entity": "United Arab Emirates dirham",
+            "symbol": null
+        },
+        {
+            "numericCode": 788,
+            "alphabeticCode": "TND",
+            "minorUnit": 3,
+            "entity": "Tunisian dinar",
+            "symbol": null
+        },
+        {
+            "numericCode": 800,
+            "alphabeticCode": "UGX",
+            "minorUnit": 0,
+            "entity": "Ugandan shilling",
+            "symbol": null
+        },
+        {
+            "numericCode": 807,
+            "alphabeticCode": "MKD",
+            "minorUnit": 2,
+            "entity": "Macedonian denar",
+            "symbol": null
+        },
+        {
+            "numericCode": 818,
+            "alphabeticCode": "EGP",
+            "minorUnit": 2,
+            "entity": "Egyptian pound",
+            "symbol": null
+        },
+        {
+            "numericCode": 826,
+            "alphabeticCode": "GBP",
+            "minorUnit": 2,
+            "entity": "Pound sterling",
+            "symbol": "£"
+        },
+        {
+            "numericCode": 834,
+            "alphabeticCode": "TZS",
+            "minorUnit": 2,
+            "entity": "Tanzanian shilling",
+            "symbol": null
+        },
+        {
+            "numericCode": 840,
+            "alphabeticCode": "USD",
+            "minorUnit": 2,
+            "entity": "United States dollar",
+            "symbol": "$"
+        },
+        {
+            "numericCode": 858,
+            "alphabeticCode": "UYU",
+            "minorUnit": 2,
+            "entity": "Uruguayan peso",
+            "symbol": null
+        },
+        {
+            "numericCode": 860,
+            "alphabeticCode": "UZS",
+            "minorUnit": 2,
+            "entity": "Uzbekistan sum",
+            "symbol": null
+        },
+        {
+            "numericCode": 882,
+            "alphabeticCode": "WST",
+            "minorUnit": 2,
+            "entity": "Samoan tala",
+            "symbol": null
+        },
+        {
+            "numericCode": 886,
+            "alphabeticCode": "YER",
+            "minorUnit": 2,
+            "entity": "Yemeni rial",
+            "symbol": null
+        },
+        {
+            "numericCode": 901,
+            "alphabeticCode": "TWD",
+            "minorUnit": 2,
+            "entity": "New Taiwan dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 925,
+            "alphabeticCode": "SLE",
+            "minorUnit": 2,
+            "entity": "Sierra Leonean leone (new leone)",
+            "symbol": null
+        },
+        {
+            "numericCode": 926,
+            "alphabeticCode": "VED",
+            "minorUnit": 2,
+            "entity": "Venezuelan digital bolívar",
+            "symbol": null
+        },
+        {
+            "numericCode": 927,
+            "alphabeticCode": "UYW",
+            "minorUnit": 4,
+            "entity": "Sierra Leonean leone (new leone)",
+            "symbol": null
+        },
+        {
+            "numericCode": 928,
+            "alphabeticCode": "VES",
+            "minorUnit": 2,
+            "entity": "Venezuelan sovereign bolívar",
+            "symbol": null
+        },
+        {
+            "numericCode": 929,
+            "alphabeticCode": "MRU",
+            "minorUnit": 2,
+            "entity": "Mauritanian ouguiya",
+            "symbol": null
+        },
+        {
+            "numericCode": 930,
+            "alphabeticCode": "STN",
+            "minorUnit": 2,
+            "entity": "São Tomé and Príncipe dobra",
+            "symbol": null
+        },
+        {
+            "numericCode": 931,
+            "alphabeticCode": "CUC",
+            "minorUnit": 2,
+            "entity": "Cuban convertible peso",
+            "symbol": null
+        },
+        {
+            "numericCode": 932,
+            "alphabeticCode": "ZWL",
+            "minorUnit": 2,
+            "entity": "Zimbabwean dollar (fifth)",
+            "symbol": null
+        },
+        {
+            "numericCode": 933,
+            "alphabeticCode": "BYN",
+            "minorUnit": 2,
+            "entity": "Belarusian ruble",
+            "symbol": null
+        },
+        {
+            "numericCode": 934,
+            "alphabeticCode": "TMT",
+            "minorUnit": 2,
+            "entity": "Turkmenistan manat",
+            "symbol": null
+        },
+        {
+            "numericCode": 936,
+            "alphabeticCode": "GHS",
+            "minorUnit": 2,
+            "entity": "Ghanaian cedi",
+            "symbol": null
+        },
+        {
+            "numericCode": 938,
+            "alphabeticCode": "SDG",
+            "minorUnit": 2,
+            "entity": "Sudanese pound",
+            "symbol": null
+        },
+        {
+            "numericCode": 940,
+            "alphabeticCode": "UYI",
+            "minorUnit": 0,
+            "entity": "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)",
+            "symbol": null
+        },
+        {
+            "numericCode": 941,
+            "alphabeticCode": "RSD",
+            "minorUnit": 2,
+            "entity": "Serbian dinar",
+            "symbol": null
+        },
+        {
+            "numericCode": 943,
+            "alphabeticCode": "MZN",
+            "minorUnit": 2,
+            "entity": "Mozambican metical",
+            "symbol": null
+        },
+        {
+            "numericCode": 944,
+            "alphabeticCode": "AZN",
+            "minorUnit": 2,
+            "entity": "Azerbaijani manat",
+            "symbol": null
+        },
+        {
+            "numericCode": 946,
+            "alphabeticCode": "RON",
+            "minorUnit": 2,
+            "entity": "Romanian leu",
+            "symbol": null
+        },
+        {
+            "numericCode": 947,
+            "alphabeticCode": "CHE",
+            "minorUnit": 2,
+            "entity": "WIR euro (complementary currency)",
+            "symbol": null
+        },
+        {
+            "numericCode": 948,
+            "alphabeticCode": "CHW",
+            "minorUnit": 2,
+            "entity": "WIR franc (complementary currency)",
+            "symbol": null
+        },
+        {
+            "numericCode": 949,
+            "alphabeticCode": "TRY",
+            "minorUnit": 2,
+            "entity": "Turkish lira",
+            "symbol": null
+        },
+        {
+            "numericCode": 950,
+            "alphabeticCode": "XAF",
+            "minorUnit": 0,
+            "entity": "CFA franc BEAC",
+            "symbol": null
+        },
+        {
+            "numericCode": 951,
+            "alphabeticCode": "XCD",
+            "minorUnit": 2,
+            "entity": "East Caribbean dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 952,
+            "alphabeticCode": "XOF",
+            "minorUnit": 0,
+            "entity": "CFA franc BCEAO",
+            "symbol": null
+        },
+        {
+            "numericCode": 953,
+            "alphabeticCode": "XPF",
+            "minorUnit": 0,
+            "entity": "CFP franc (franc Pacifique)",
+            "symbol": null
+        },
+        {
+            "numericCode": 955,
+            "alphabeticCode": "XBA",
+            "minorUnit": 0,
+            "entity": "European Composite Unit (EURCO) (bond market unit)",
+            "symbol": null
+        },
+        {
+            "numericCode": 956,
+            "alphabeticCode": "XBB",
+            "minorUnit": 0,
+            "entity": "European Monetary Unit (E.M.U.-6) (bond market unit)",
+            "symbol": null
+        },
+        {
+            "numericCode": 957,
+            "alphabeticCode": "XBC",
+            "minorUnit": 0,
+            "entity": "European Unit of Account 9 (E.U.A.-9) (bond market unit)",
+            "symbol": null
+        },
+        {
+            "numericCode": 958,
+            "alphabeticCode": "XBD",
+            "minorUnit": 0,
+            "entity": "European Unit of Account 17 (E.U.A.-17) (bond market unit)",
+            "symbol": null
+        },
+        {
+            "numericCode": 959,
+            "alphabeticCode": "XAU",
+            "minorUnit": 0,
+            "entity": "Gold (one troy ounce)",
+            "symbol": null
+        },
+        {
+            "numericCode": 960,
+            "alphabeticCode": "XDR",
+            "minorUnit": 0,
+            "entity": "Special drawing rights",
+            "symbol": null
+        },
+        {
+            "numericCode": 961,
+            "alphabeticCode": "XAG",
+            "minorUnit": 0,
+            "entity": "Silver (one troy ounce)",
+            "symbol": null
+        },
+        {
+            "numericCode": 962,
+            "alphabeticCode": "XPT",
+            "minorUnit": 0,
+            "entity": "Platinum (one troy ounce)",
+            "symbol": null
+        },
+        {
+            "numericCode": 963,
+            "alphabeticCode": "XTS",
+            "minorUnit": 0,
+            "entity": "Code reserved for testing",
+            "symbol": null
+        },
+        {
+            "numericCode": 964,
+            "alphabeticCode": "XPD",
+            "minorUnit": 0,
+            "entity": "Palladium (one troy ounce)",
+            "symbol": null
+        },
+        {
+            "numericCode": 965,
+            "alphabeticCode": "XUA",
+            "minorUnit": 0,
+            "entity": "ADB Unit of Account",
+            "symbol": null
+        },
+        {
+            "numericCode": 967,
+            "alphabeticCode": "ZMW",
+            "minorUnit": 2,
+            "entity": "Zambian kwacha",
+            "symbol": null
+        },
+        {
+            "numericCode": 968,
+            "alphabeticCode": "SRD",
+            "minorUnit": 2,
+            "entity": "Surinamese dollar",
+            "symbol": null
+        },
+        {
+            "numericCode": 969,
+            "alphabeticCode": "MGA",
+            "minorUnit": 2,
+            "entity": "Malagasy ariary",
+            "symbol": null
+        },
+        {
+            "numericCode": 970,
+            "alphabeticCode": "COU",
+            "minorUnit": 2,
+            "entity": "Unidad de Valor Real (UVR) (funds code)",
+            "symbol": null
+        },
+        {
+            "numericCode": 971,
+            "alphabeticCode": "AFN",
+            "minorUnit": 2,
+            "entity": "Afghan afghani",
+            "symbol": null
+        },
+        {
+            "numericCode": 972,
+            "alphabeticCode": "TJS",
+            "minorUnit": 2,
+            "entity": "Tajikistani somoni",
+            "symbol": null
+        },
+        {
+            "numericCode": 973,
+            "alphabeticCode": "AOA",
+            "minorUnit": 2,
+            "entity": "Angolan kwanza",
+            "symbol": null
+        },
+        {
+            "numericCode": 975,
+            "alphabeticCode": "BGN",
+            "minorUnit": 2,
+            "entity": "Bulgarian lev",
+            "symbol": null
+        },
+        {
+            "numericCode": 976,
+            "alphabeticCode": "CDF",
+            "minorUnit": 2,
+            "entity": "Congolese franc",
+            "symbol": null
+        },
+        {
+            "numericCode": 977,
+            "alphabeticCode": "BAM",
+            "minorUnit": 2,
+            "entity": "Bosnia and Herzegovina convertible mark",
+            "symbol": null
+        },
+        {
+            "numericCode": 978,
+            "alphabeticCode": "EUR",
+            "minorUnit": 2,
+            "entity": "Euro",
+            "symbol": "€"
+        },
+        {
+            "numericCode": 979,
+            "alphabeticCode": "MXV",
+            "minorUnit": 2,
+            "entity": "Mexican Unidad de Inversion (UDI) (funds code)",
+            "symbol": null
+        },
+        {
+            "numericCode": 980,
+            "alphabeticCode": "UAH",
+            "minorUnit": 2,
+            "entity": "Ukrainian hryvnia",
+            "symbol": null
+        },
+        {
+            "numericCode": 981,
+            "alphabeticCode": "GEL",
+            "minorUnit": 2,
+            "entity": "Georgian lari",
+            "symbol": null
+        },
+        {
+            "numericCode": 984,
+            "alphabeticCode": "BOV",
+            "minorUnit": 2,
+            "entity": "Bolivian Mvdol (funds code)",
+            "symbol": null
+        },
+        {
+            "numericCode": 985,
+            "alphabeticCode": "PLN",
+            "minorUnit": 2,
+            "entity": "Polish złoty",
+            "symbol": null
+        },
+        {
+            "numericCode": 986,
+            "alphabeticCode": "BRL",
+            "minorUnit": 2,
+            "entity": "Brazilian real",
+            "symbol": null
+        },
+        {
+            "numericCode": 990,
+            "alphabeticCode": "CLF",
+            "minorUnit": 4,
+            "entity": "Unidad de Fomento (funds code)",
+            "symbol": null
+        },
+        {
+            "numericCode": 994,
+            "alphabeticCode": "XSU",
+            "minorUnit": 0,
+            "entity": "SUCRE",
+            "symbol": null
+        },
+        {
+            "numericCode": 997,
+            "alphabeticCode": "USN",
+            "minorUnit": 2,
+            "entity": "United States dollar (next day) (funds code)",
+            "symbol": null
+        },
+        {
+            "numericCode": 999,
+            "alphabeticCode": "XXX",
+            "minorUnit": 0,
+            "entity": "No currency",
+            "symbol": null
+        }
+    ]
+}
